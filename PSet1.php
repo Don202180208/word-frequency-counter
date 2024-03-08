@@ -1,4 +1,8 @@
 <?php
+/*Submmitted by:
+DON ANGEL LOU M. SALVATIERRA
+JOHN CARL REYES
+*/
 
 /**
  * Calculates the total price of items in a shopping cart.
